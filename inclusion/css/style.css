@@ -1,0 +1,31 @@
+.conteneur {
+	width: 1000px;
+	margin: 0 auto;
+}
+header {
+	height: 140px;
+	background-color: darkslategray;
+}
+footer {
+	height: 100px;
+	background-color: darkslategray;
+}
+nav {
+	height: 30px;
+	background-color: lightslategray;
+}
+section {
+	height: 500px;
+}
+nav a {
+	display: inline-block;
+	width: 15%;
+	color: white;
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+	text-decoration: none;
+}
+nav a:hover {
+	background-color: #333;
+}
